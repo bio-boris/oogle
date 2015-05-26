@@ -1,0 +1,7 @@
+
+.circle{
+border-radius: 50%;
+border:1px solid #cfdcec;
+overflow:hidden;
+box-shadow: 0 0 3px gray;
+}
